@@ -1,0 +1,60 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.calculator{
+    width: 320px;
+    height: 550px;
+    background-color: #000000;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+input{
+    width:270px;
+    height: 65px;
+    border-radius:10px;
+    border-style: none;
+    text-align: right;
+    font-size: 50px;
+    font-family: times new roman;
+}
+
+.keypad{
+    width:270px;
+    height: 65px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    border-style: none;
+    background-color: #808080;
+    color: #ffffff;
+}
+
+.pin{
+    background-color: #ffa500;
+    color: #ffffff;
+}
+
+.tin{
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.kin{
+    width: 105px;
+    border-radius: 25px;
+}

@@ -1,0 +1,22 @@
+.kin{
+    margin: auto;
+   display:flex;
+   justify-content: space-around; 
+   padding: 10px 50px;
+   background-color: rgb(80, 13, 13);
+   list-style-type:none;
+   box-shadow: #ffffff;
+
+}
+.kin li a{
+    color:#ffffff;
+    text-decoration-line:none;
+}
+.pin{
+    padding: 5px 20px;
+    background-color:rgb(240, 107, 107);
+    border-radius:5px;
+}
+.lin{
+    justify-content: center;
+}

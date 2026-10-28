@@ -1,0 +1,63 @@
+p{color:rgb(197, 159, 159); text-align: justify;}
+#NB{font-size:20px; color:black;}
+button{background-color:red; color:white; font-style:italic; text-align: center;}
+.high{background-color: pink;}
+.details{color:brown; background-color:aqua;text-align:center; font-size:40px; font-family:algerian; font-weight:200px;}
+body{background-color:lightgray; font-family:bookman old style;}
+.man{text-align:center; font-size:20px; color:black;text-align: justify;}
+li{text-decoration-style: none;}
+a{text-decoration-line: none;}
+.tin{color:black;}
+.ten1{color:black}
+.ten2{
+    text-transform:uppercase;
+    text-shadow: 4px 4px blue;
+    background-color: white;
+}
+.nav-link
+{
+display: flex;
+justify-content:space-between;
+background-color:none;
+list-style-type: none;
+padding: 25px; 100px;
+}
+.nav-link li a{color: white;
+}
+.outer-div
+{
+display: flex;
+justify-content: space-between;
+}
+.shape{
+    background-color: blue;
+    width:40px;
+    height: 35px;
+    border-radius: 50%;
+    text-align: center;
+
+}
+.shape1{
+    background-color: brown;
+width:50px;
+height:35px;
+border-radius: 40%;
+text-align: center;
+}
+.shape2{
+    background-color: aqua;
+    width: 60px;
+    height: 45px;
+    border-radius: 70%;
+    text-align: center;
+
+}
+li{
+    border-style: solid;
+    border-color: blue;
+    
+}
+.nav-link
+{
+
+}
